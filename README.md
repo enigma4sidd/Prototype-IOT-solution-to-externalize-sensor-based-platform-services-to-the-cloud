@@ -21,9 +21,9 @@ FEATURES:
   
 ## Team
 
-[Siddharth Gupta](https://siddg.me) - siddg@ufl.edu
+[Siddharth Gupta](http://siddg.me) - siddg@ufl.edu
 
-[Anurag Bihani](https://anuragbihani.me) - anuragbihani@ufl.edu
+[Anurag Bihani](http://anuragbihani.me) - anuragbihani@ufl.edu
 
 [Gyanranjan Hazarika](#) - ghazarika@ufl.edu
 
