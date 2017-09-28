@@ -21,12 +21,13 @@ FEATURES:
   
 ## Team
 
-[Siddharth Gupta](https://www.linkedin.com/in/siddharth4gupta/) - siddg@ufl.edu
+[Siddharth Gupta](https://siddg.me) - siddg@ufl.edu
 
 [Anurag Bihani](https://anuragbihani.me) - anuragbihani@ufl.edu
 
 [Gyanranjan Hazarika](#) - ghazarika@ufl.edu
 
+[Abhineet Kulkarni](#) - abhineetrkulkarn@ufl.edu
 
 ## Copyright
 
